@@ -1,9 +1,11 @@
 # project-one
 # College Diversity’s Relationship with the Workforce
 ## *TEAM: Kristy Anderson, Cullen Andrews, Daniel Carter, and George Simon*
-### SCOPE / HYPOTHESIS
+### SCOPE
 Our project is to uncover patterns surrounding education, diversity, and the workforce around Seattle, Washington. We will examine relationships between college graduate’s diversity data and workforce census data over the past 10 years. Particularly in the years 2011, 2014, and 2018.
-*Is there a correlation between college graduate diversity in the Greater Seattle Area and workforce success?*
+### HYPOTHESIS
+Null hypothesis--Zip codes where the largest public college/university there had increased proportion of students enrolled of (race) over the last 5 years had the same increase in median income for that race as zip codes where the largest college had no increase in enrollment.   Alternative Hypothesis--Median income increase for (race) was greater in zip codes where enrollment for (race) increased at the largest college.
+
 ### DESCRIPTION
 We will use data from the U.S. Department of Education, which is in the form of large .csv files. We will research documentation to interpret what the data represents. We will investigate the data set to identify which data pertains to diversity, loan payments, and graduate jobs. We may find that there is no useful data in the jobs category for this particular set, but the data must be cleaned to illustrate that this is the case.
 
@@ -18,8 +20,7 @@ We can use boxplots to illustrate differences in various quantities among catego
 ### DATASETS
 * Data:  https://collegescorecard.ed.gov/data/ (columns labeled UGDS)
 * Data:  https://collegescorecard.ed.gov/data/ (columns labeled C150)
-* Data: Employment Statistics of College Graduates (US Census)
-* Data: micro census data?
+* Data:  Census Data API (Median income based off of race for 12 months (for each year))
 
 ### PROPOSED PROJECT TASKS
 * Data Sourcing/Research - Kristy & Cullen
