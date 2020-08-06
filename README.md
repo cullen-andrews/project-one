@@ -2,7 +2,7 @@
 # College Diversity’s Relationship with the Workforce
 ## *TEAM: Kristy Anderson, Cullen Andrews, Daniel Carter, and George Simon*
 ### SCOPE / HYPOTHESIS
-Our project is to uncover patterns surrounding education, diversity, and the workforce around Seattle, Washington. We will examine relationships between college graduate’s diversity data and workforce census data over the past 20 years. 
+Our project is to uncover patterns surrounding education, diversity, and the workforce around Seattle, Washington. We will examine relationships between college graduate’s diversity data and workforce census data over the past 10 years. Particularly in the years 2011, 2014, and 2018.
 *Is there a correlation between college graduate diversity in the Greater Seattle Area and workforce success?*
 ### DESCRIPTION
 We will use data from the U.S. Department of Education, which is in the form of large .csv files. We will research documentation to interpret what the data represents. We will investigate the data set to identify which data pertains to diversity, loan payments, and graduate jobs. We may find that there is no useful data in the jobs category for this particular set, but the data must be cleaned to illustrate that this is the case.
