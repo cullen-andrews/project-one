@@ -20,7 +20,6 @@ We can use boxplots to illustrate differences in various quantities among catego
 ### DATASETS
 * Data:  https://collegescorecard.ed.gov/data/ (columns labeled UGDS)
 * Data:  https://collegescorecard.ed.gov/data/ (columns labeled C150)
-* Data:  Census Data API (Median income based off of race for 12 months (for each year))
 
 ### PROPOSED PROJECT TASKS
 * Data Sourcing/Research - Kristy & Cullen
