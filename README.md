@@ -22,8 +22,8 @@ We will use data from the U.S. Department of Education, which is in the form of 
 * What does diversity look like between the different categories of colleges? (e.g. 2-year vs 4-year, private vs public, etc)
 
 ### DATASETS
-* Data:  https://collegescorecard.ed.gov/data/ (columns labeled UGDS & C150)
-* Data:  [Census Data API Guide](https://www.census.gov/content/dam/Census/data/developers/api-user-guide/api-guide.pdf)
+* [College Score Card Data](https://collegescorecard.ed.gov/data/) (columns labeled UGDS & C150)
+* [Census Data API Guide](https://www.census.gov/content/dam/Census/data/developers/api-user-guide/api-guide.pdf)
     * [Census API Variables](https://api.census.gov/data/2018/acs/acs5/variables.html)
 
 ### DATA ANALYSIS ASSUMPTIONS
