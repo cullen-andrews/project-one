@@ -1,8 +1,5 @@
 # project-one
-<<<<<<< HEAD
 
-Daniel's Branch
-=======
 # College Diversity’s Relationship with the Workforce
 ## *TEAM: Kristy Anderson, Cullen Andrews, Daniel Carter, and George Simon*
 ### SCOPE / HYPOTHESIS
@@ -33,4 +30,7 @@ We can use boxplots to illustrate differences in various quantities among catego
 * Final Analysis/Write Up - Kristy & Daniel
 * Presenter - whole team
 * Github Merge Manger - Kristy
+<<<<<<< HEAD
 >>>>>>> e782e7a37a0ca1df360c8fa475d2addd0b421519
+=======
+>>>>>>> master
