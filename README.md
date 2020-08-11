@@ -52,6 +52,7 @@ The proportion of college students rose for 2 of the 4 races reviewed and fell f
 
 #### Is there statistical significance between student diversity and median income in the U.S.? 
 According to the data we evaluated, all races average annual household income increased over the 7 year period, whereas diversity of admitted college students varied. With that, there does not seem to be a significant statistical correlation between the two.
+
 ![Kristy Visual 2](/images/ave_household_inc_by_race.png)
 
 #### How has the racial population diversity in the U.S. changed from 2011-2014 to 2014-2018?
@@ -68,3 +69,4 @@ There is significant evidence that a greater proportion of community college stu
 ![Cullen Visual 2](/visualize/two_vs_overall_default.png)
 
 ### FINAL ANALYSIS
+Based on the analysis we conducted we failed to reject reject the first null hypothesis; *States where the three largest public universities saw an increase proportion of students enrolled of (race) over the time periods of 2011-2014 and 2014-2018 had the same increase in median income for that race in states where the three largest public universities had no increase in enrollment.* However, in analyzing the U.S. Census data we did discover statistical evidence that median income for (race) as a function of overall average state income are not the same. With this we have successfully rejected or second null hypothesis; *Changes in median income for (race) as a function of overall average state income are the same for all races.*
