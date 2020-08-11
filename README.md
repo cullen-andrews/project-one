@@ -1,4 +1,4 @@
-# project-one
+# Project-One
 # U.S. College Diversity’s Relationship with the Workforce
 ## *TEAM: Kristy Anderson, Cullen Andrews, Daniel Carter, and George Simon*
 ### SCOPE
@@ -70,8 +70,9 @@ There is significant evidence that a greater proportion of community college stu
 
 #### Over the time periods 2011, 2014, and 2018, is there a relationship between average household income of a state and the median income of each race looked at?
 Yes, there is a relationship. Using a linear regression model we were able to determine the relationship based on what happened to the median income as the average household income increased. The model showed the amount each race can expect their median income to improve for every dollar that the average household income increased. Below are the graphs of the most recent data in 2018.
+
 ![Daniels Visual 1](/Linear_Regression_Models/2018_AfricanAmerican.png) ![Daniels Visual 2](/Linear_Regression_Models/2018_Asian.png)
 ![Daniels Visual 3](/Linear_Regression_Models/2018_HispanicorLatino.png) ![Daniels Visual 4](/Linear_Regression_Models/2018_White.png)
 
-### FINAL ANALYSIS
+### CONCLUSION
 Based on the analysis we conducted we failed to reject our first null hypothesis; *States where the three largest public universities saw an increase proportion of students enrolled of (race) over the time periods of 2011-2014 and 2014-2018 had the same increase in median income for that race in states where the three largest public universities had no increase in enrollment.* However, in analyzing the U.S. Census data we did discover statistical evidence as outlined in the linear regression graphs that median income for (race) as a function of overall average state income are not the same. With this we have successfully rejected or second null hypothesis; *Changes in median income for (race) as a function of overall average state income are the same for all races.*
