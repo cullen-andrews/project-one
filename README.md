@@ -23,8 +23,7 @@ We will use data from the U.S. Department of Education, which is in the form of 
 
 ### DATASETS
 * [College Score Card Data](https://collegescorecard.ed.gov/data/) (columns labeled UGDS & C150)
-* [Census Data API Guide](https://www.census.gov/content/dam/Census/data/developers/api-user-guide/api-guide.pdf)
-    * [Census API Variables](https://api.census.gov/data/2018/acs/acs5/variables.html)
+* [U.S. Census Data API Guide](https://www.census.gov/content/dam/Census/data/developers/api-user-guide/api-guide.pdf) & [U.S. Census API Variables](https://api.census.gov/data/2018/acs/acs5/variables.html)
 
 ### DATA ANALYSIS ASSUMPTIONS
 * Based on how the data was cleaned and from what was availabe four races were chosen for analysis
