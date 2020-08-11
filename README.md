@@ -46,24 +46,24 @@ We will use data from the U.S. Department of Education, which is in the form of 
 * Github Merge Manger - Kristy
 
 ### FINAL ANALYSIS
-##### How has the racial enrollment diversity in the U.S. changed from 2011-2014 to 2014-2018? 
+#### How has the racial enrollment diversity in the U.S. changed from 2011-2014 to 2014-2018? 
 The proportion of college students rose for 2 of the 4 races reviewed and fell for the other 2 races over 7 year span.
 ![Kristy Visual 1](/images/race_of_admitted_students.png)
 
-##### Is there statistical significance between student diversity and median income in the U.S.? 
-According to the data we evaluated, all races average annual household income increased over the 7 year period, whereas diversity of admitted college students varied. With that, there does not seem to be a significant statistical correlation between the two
+#### Is there statistical significance between student diversity and median income in the U.S.? 
+According to the data we evaluated, all races average annual household income increased over the 7 year period, whereas diversity of admitted college students varied. With that, there does not seem to be a significant statistical correlation between the two.
 ![Kristy Visual 2](/images/ave_household_inc_by_race.png)
 
-##### How has the racial population diversity in the U.S. changed from 2011-2014 to 2014-2018?
+#### How has the racial population diversity in the U.S. changed from 2011-2014 to 2014-2018?
 The percent change of each of the analyzed races can be seen in the below graph. The bar chart highlights the two time spans: 2011-2014 and 2014-2018. The two fastest changing races the data showed were the Asian population (11.8%) and Hispanic & Latino (7.4%) increase from 2014-2018. It was also interesting to note that White is the lowest growing population with a (0.01%) increase from 2014-2018.
 ![George Visual 1](/images/barchart_pop_change_percent.png)
 
-##### Is there statistical significance between student diversity and median income in the U.S.?
+#### Is there statistical significance between student diversity and median income in the U.S.?
 There is no statistically significant evidence that changes in median income of races was different in states where that race’s college enrollment percentage increased vs. states where the race’s enrollment decreased or stayed the same.
 The only exception is the white race from 2014-2018, where there is evidence that income increased in states where college enrollment decreased, with a p-value of 0.038 (one-tailed).
 ![Cullen Visual 1](/visualize/white_14_18.png)
 
-##### Is there a statistically significant difference in the proportion of students defaulting on their student loans between community colleges and colleges overall?
+#### Is there a statistically significant difference in the proportion of students defaulting on their student loans between community colleges and colleges overall?
 There is significant evidence that a greater proportion of community college students default on their student loans than college students overall.
 ![Cullen Visual 2](/visualize/two_vs_overall_default.png)
 
